@@ -1,0 +1,5 @@
+sangaboard.ino:133:20: error: ‘String’ was not declared in this scope
+sangaboard.ino:133:36: error: expected primary-expression before ‘const’
+sangaboard.ino:133:60: error: expected primary-expression before ‘int’
+sangaboard.ino:133:74: error: expression list treated as compound expression in initializer [-fpermissive]
+sangaboard.ino:133:75: error: expected ‘,’ or ‘;’ before ‘{’ token
