@@ -1,0 +1,4 @@
+cd ~/Arduino/libraries
+git clone https://github.com/adafruit/Adafruit_TSL2591_Library.git
+git clone https://github.com/adafruit/Adafruit_Sensor.git
+git clone https://github.com/adafruit/Adafruit_ADS1X15.git
